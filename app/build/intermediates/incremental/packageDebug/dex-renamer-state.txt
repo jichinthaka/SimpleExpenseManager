@@ -1,0 +1,7 @@
+#Sun Nov 20 10:28:26 IST 2016
+base.0=C\:\\Users\\Imesh Chinthaka\\Desktop\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bc48dd24cac4965ddc8577a62b2eca8528101fd1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Imesh Chinthaka\\Desktop\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_75f31745ea49aa368bb87df4e06e698d1e686e23\\classes.dex
+base.1=C\:\\Users\\Imesh Chinthaka\\Desktop\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_75f31745ea49aa368bb87df4e06e698d1e686e23
+file.0=C\:\\Users\\Imesh Chinthaka\\Desktop\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bc48dd24cac4965ddc8577a62b2eca8528101fd1\\classes.dex
